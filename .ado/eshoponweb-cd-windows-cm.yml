@@ -1,5 +1,3 @@
-# TEST
-
 variables:
   resource-group: 'AZ400-EWebShop-NAME'
   location: 'westeurope'
